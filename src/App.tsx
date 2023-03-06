@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
 import CryptoDashboard from './components/CryptoDashboard';
+import './App.css';
 
 function App() {
   return (

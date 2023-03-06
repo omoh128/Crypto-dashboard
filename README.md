@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is a simple cryptocurrency dashboard built using React.js and Chart.js. It allows the user to view a table of cryptocurrency data and a chart showing the price history of the selected cryptocurrency.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
