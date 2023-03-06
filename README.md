@@ -20,3 +20,18 @@ To run this project, follow these steps:
    Once you have the application running, you will see a table showing the current price and 24-hour change for several popular cryptocurrencies. To view the price history of a particular cryptocurrency, simply click on its row in the table.
 
     You will then be taken to a chart showing the price history of the selected cryptocurrency. You can hover over the chart to see the price and date for a particular point in time.
+
+
+ ## Dependencies
+ This project was built using the following dependencies:
+
+ .React.js
+
+ .Chart.js
+
+ .react-chartjs-2
+
+ .TypeScript
+
+  .Axios
+
